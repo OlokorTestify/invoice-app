@@ -1,6 +1,5 @@
 import styled from "styled-components";
 
-import Avatar from "../shared/Avatar";
 import Logo from "../shared/Logo";
 import ThemeToggle from "./ThemeToggle";
 
